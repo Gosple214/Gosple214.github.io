@@ -30,8 +30,8 @@
     
     <entry>
       <title>test</title>
-      <link href="/2023/02/13/test-copy/"/>
-      <url>/2023/02/13/test-copy/</url>
+      <link href="/2023/02/13/test-copy-3/"/>
+      <url>/2023/02/13/test-copy-3/</url>
       
         <content type="html"><![CDATA[<h2 id="essayZhang"><a href="#essayZhang" class="headerlink" title="essayZhang"></a>essayZhang</h2>]]></content>
       
@@ -59,31 +59,6 @@
       <url>/2023/02/13/test/</url>
       
         <content type="html"><![CDATA[<h2 id="essayZhang"><a href="#essayZhang" class="headerlink" title="essayZhang"></a>essayZhang</h2><p>Hello, world<br><div class="note default simple"><p>default 提示块标签</p></div></p><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>时间轴样式</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2020-07-24 <a href="https://github.com/volantis-x/hexo-theme-volantis/releases">2.6.6 -&gt; 3.0</a></p></div></div><div class='timeline-item-content'><ol><li>如果有 <code>hexo-lazyload-image</code> 插件，需要删除并重新安装最新版本，设置 <code>lazyload.isSPA: true</code>。</li><li>2.x 版本的 css 和 js 不适用于 3.x 版本，如果使用了 <code>use_cdn: true</code> 则需要删除。</li><li>2.x 版本的 fancybox 标签在 3.x 版本中被重命名为 gallery 。</li><li>2.x 版本的置顶 <code>top: true</code> 改为了 <code>pin: true</code>，并且同样适用于 <code>layout: page</code> 的页面。</li><li>如果使用了 <code>hexo-offline</code> 插件，建议卸载，3.0 版本默认开启了 pjax 服务。</li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2020-05-15 <a href="https://github.com/volantis-x/hexo-theme-volantis/releases/tag/2.6.6">2.6.3 -&gt; 2.6.6</a></p></div></div><div class='timeline-item-content'><p>不需要额外处理。</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2020-04-20 <a href="https://github.com/volantis-x/hexo-theme-volantis/releases/tag/2.6.3">2.6.2 -&gt; 2.6.3</a></p></div></div><div class='timeline-item-content'><ol><li>全局搜索 <code>seotitle</code> 并替换为 <code>seo_title</code>。</li><li>group 组件的索引规则有变，使用 group 组件的文章内，<code>group: group_name</code> 对应的组件名必须是 <code>group_name</code>。</li><li>group 组件的列表名优先显示文章的 <code>short_title</code> 其次是 <code>title</code>。</li></ol></div></div></div>]]></content>
-      
-      
-      <categories>
-          
-          <category> Test </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 标签2 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>test</title>
-      <link href="/2023/02/13/test-copy-3/"/>
-      <url>/2023/02/13/test-copy-3/</url>
-      
-        <content type="html"><![CDATA[<h2 id="essayZhang"><a href="#essayZhang" class="headerlink" title="essayZhang"></a>essayZhang</h2>]]></content>
       
       
       <categories>
@@ -155,8 +130,8 @@
     
     <entry>
       <title>TOEFL听力</title>
-      <link href="/2023/02/13/%E5%90%AC%E5%8A%9B-copy/"/>
-      <url>/2023/02/13/%E5%90%AC%E5%8A%9B-copy/</url>
+      <link href="/2023/02/13/%E5%90%AC%E5%8A%9B-copy-4/"/>
+      <url>/2023/02/13/%E5%90%AC%E5%8A%9B-copy-4/</url>
       
         <content type="html"><![CDATA[<h1 id="听力"><a href="#听力" class="headerlink" title="听力"></a>听力</h1><h3 id="Tpo46-L1"><a href="#Tpo46-L1" class="headerlink" title="Tpo46 L1"></a>Tpo46 L1</h3><p>swarm v挤满 n蜂群；群体</p><p>collect v收集；集合</p><p>collective a集体的；共有的</p><p>flock n群 v聚集</p><p>instinctively ad本能的</p><p>immediate a立即的；当前的</p><p>node n节点</p><p>numeric a数字的</p><p>coordinate v协调</p><p>boil v煮沸</p><p>industry n工业</p><p>start off    以…开始</p><p>boils down to    归结为</p><p>take into account 考虑</p><p>account for 解释</p><p>生物课</p><p>我们讨论swarm智能</p><p>显示动物群体</p><p>我们了解一下他们行为的原则</p><p>比如蚂蚁</p><p>举例 蚂蚁</p><p>蚂蚁自己并不聪明 一群蚂蚁 有效率</p><p>没有领导</p><p>每个蚂蚁遵守一系列捕食规则</p><p>第一个规则 放一些化学沉淀 fa</p><p>第二个规则 跟随最强的fa路径</p><p>这是蚂蚁寻找食物的优势</p><p>比如 蚂蚁离开巢穴 防止一些fa沿着路线</p><p>如果找到了食物 他们回到巢穴 并且fa更加强烈</p><p>当跟多的蚂蚁追寻道路 fa更加强烈</p><p>所以发生了什么</p><p>每个蚂蚁遵循两个基本的原则</p><p>每个蚂蚁行动按照找到的信息</p><p>他们集体选择最短的路因为路径信息最强</p><p>顺便一说 你开门问我这和你们每天学的有什么关系</p><p>可以应用到其他领域</p><p>商业用这个方法在设计系统时 比如电话网</p><p>当一个电话从一个城市到另一个 这个连接通过很多节点</p><p>要确定这个call怎么走从这里</p><p>一个电脑程序回答蚂蚁发现食物</p><p>电话监控速度 辨认最不拥挤的部分</p><p>转化为数字新华 在网络节点</p><p>强调最不拥挤的</p><p>跟随最强调的</p><p>这导致了结果 对整体有益 速度快</p><p>生物例子</p><p>鸟变得飞的团结</p><p>他们怎么协调移动并且知道他们应该如何</p><p>归结为三条规则</p><p>第一个 离附近的鸟近</p><p>第二个 避免和附近的鸟碰撞</p><p>第三个 以和附近鸟平均的素的和方向</p><p>如何用于人类</p><p>电影产业想要创造成群的鸟在电影场景</p><p>如何变得简单在大范围</p><p>这个规则用在电脑程序里 起作用了</p><p>还尝试创造生成人们</p><p>然而 这还需要更多研究</p><p>但不能考虑到人的复杂</p><p>如果想要创造人群 计算机模型很有限</p><h3 id="Tpo46-L3"><a href="#Tpo46-L3" class="headerlink" title="Tpo46 L3"></a>Tpo46 L3</h3><p>recede v后退；减弱</p><p>ultramarine n青色</p><p>sparingly ad节俭的</p><p>discolored a掉色</p><p>synthetic a合成的；人工的</p><p>pigment n颜料</p><p>formula n公式</p><p>wrap v包；掩护</p><p>艺术历史课</p><p>我们讨论Blue boy 这个画可能是食盐 是一种挑战 蓝色可能很重要颜色</p><p>对主要物体不好是吗</p><p>这个画证明了他观点</p><p>but 蓝色很贵</p><p>现代颜色都有充足供应</p><p>在之前不简单</p><p>这种颜色 被珍贵的石头做成 很重要</p><p>第二种石头 在第一个之后 也是一种珍贵的石头</p><p>但是这个很难去加工</p><p>有证据表明艺术家尝试克服</p><p>用更便宜的</p><p>但是会掉色</p><p>艺术家避免这种蓝色 或者用便宜的</p><p>所以这是一种奢侈品</p><p>这个表明他们有能力承担 和黄金叶是相同的</p><p>埃及人尝试制作蓝色</p><p>他们讲公事隔了罗马人 但是丢了</p><p>la很难获得 加工复杂 需要打磨 混合 包装</p><p>好的部分会被分离</p><p>合格过程耗费时间 还导致花费高 生产出很多不能用的</p><p>F政府赞助了这个竞赛 为了找到更便宜的方法</p><p>之后 一个过程说明了一种混合方法 创造简单替代的方案</p><p>所以没有一问十九世纪艺术家 用更多人工版本 </p><p>印象主义者可以有更多的选择 至少是更不贵的选择</p>]]></content>
       
@@ -179,9 +154,34 @@
     
     
     <entry>
+      <title>test</title>
+      <link href="/2023/02/13/test-copy/"/>
+      <url>/2023/02/13/test-copy/</url>
+      
+        <content type="html"><![CDATA[<h2 id="essayZhang"><a href="#essayZhang" class="headerlink" title="essayZhang"></a>essayZhang</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Test </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>TOEFL听力</title>
-      <link href="/2023/02/13/%E5%90%AC%E5%8A%9B-copy-4/"/>
-      <url>/2023/02/13/%E5%90%AC%E5%8A%9B-copy-4/</url>
+      <link href="/2023/02/13/%E5%90%AC%E5%8A%9B-copy/"/>
+      <url>/2023/02/13/%E5%90%AC%E5%8A%9B-copy/</url>
       
         <content type="html"><![CDATA[<h1 id="听力"><a href="#听力" class="headerlink" title="听力"></a>听力</h1><h3 id="Tpo46-L1"><a href="#Tpo46-L1" class="headerlink" title="Tpo46 L1"></a>Tpo46 L1</h3><p>swarm v挤满 n蜂群；群体</p><p>collect v收集；集合</p><p>collective a集体的；共有的</p><p>flock n群 v聚集</p><p>instinctively ad本能的</p><p>immediate a立即的；当前的</p><p>node n节点</p><p>numeric a数字的</p><p>coordinate v协调</p><p>boil v煮沸</p><p>industry n工业</p><p>start off    以…开始</p><p>boils down to    归结为</p><p>take into account 考虑</p><p>account for 解释</p><p>生物课</p><p>我们讨论swarm智能</p><p>显示动物群体</p><p>我们了解一下他们行为的原则</p><p>比如蚂蚁</p><p>举例 蚂蚁</p><p>蚂蚁自己并不聪明 一群蚂蚁 有效率</p><p>没有领导</p><p>每个蚂蚁遵守一系列捕食规则</p><p>第一个规则 放一些化学沉淀 fa</p><p>第二个规则 跟随最强的fa路径</p><p>这是蚂蚁寻找食物的优势</p><p>比如 蚂蚁离开巢穴 防止一些fa沿着路线</p><p>如果找到了食物 他们回到巢穴 并且fa更加强烈</p><p>当跟多的蚂蚁追寻道路 fa更加强烈</p><p>所以发生了什么</p><p>每个蚂蚁遵循两个基本的原则</p><p>每个蚂蚁行动按照找到的信息</p><p>他们集体选择最短的路因为路径信息最强</p><p>顺便一说 你开门问我这和你们每天学的有什么关系</p><p>可以应用到其他领域</p><p>商业用这个方法在设计系统时 比如电话网</p><p>当一个电话从一个城市到另一个 这个连接通过很多节点</p><p>要确定这个call怎么走从这里</p><p>一个电脑程序回答蚂蚁发现食物</p><p>电话监控速度 辨认最不拥挤的部分</p><p>转化为数字新华 在网络节点</p><p>强调最不拥挤的</p><p>跟随最强调的</p><p>这导致了结果 对整体有益 速度快</p><p>生物例子</p><p>鸟变得飞的团结</p><p>他们怎么协调移动并且知道他们应该如何</p><p>归结为三条规则</p><p>第一个 离附近的鸟近</p><p>第二个 避免和附近的鸟碰撞</p><p>第三个 以和附近鸟平均的素的和方向</p><p>如何用于人类</p><p>电影产业想要创造成群的鸟在电影场景</p><p>如何变得简单在大范围</p><p>这个规则用在电脑程序里 起作用了</p><p>还尝试创造生成人们</p><p>然而 这还需要更多研究</p><p>但不能考虑到人的复杂</p><p>如果想要创造人群 计算机模型很有限</p><h3 id="Tpo46-L3"><a href="#Tpo46-L3" class="headerlink" title="Tpo46 L3"></a>Tpo46 L3</h3><p>recede v后退；减弱</p><p>ultramarine n青色</p><p>sparingly ad节俭的</p><p>discolored a掉色</p><p>synthetic a合成的；人工的</p><p>pigment n颜料</p><p>formula n公式</p><p>wrap v包；掩护</p><p>艺术历史课</p><p>我们讨论Blue boy 这个画可能是食盐 是一种挑战 蓝色可能很重要颜色</p><p>对主要物体不好是吗</p><p>这个画证明了他观点</p><p>but 蓝色很贵</p><p>现代颜色都有充足供应</p><p>在之前不简单</p><p>这种颜色 被珍贵的石头做成 很重要</p><p>第二种石头 在第一个之后 也是一种珍贵的石头</p><p>但是这个很难去加工</p><p>有证据表明艺术家尝试克服</p><p>用更便宜的</p><p>但是会掉色</p><p>艺术家避免这种蓝色 或者用便宜的</p><p>所以这是一种奢侈品</p><p>这个表明他们有能力承担 和黄金叶是相同的</p><p>埃及人尝试制作蓝色</p><p>他们讲公事隔了罗马人 但是丢了</p><p>la很难获得 加工复杂 需要打磨 混合 包装</p><p>好的部分会被分离</p><p>合格过程耗费时间 还导致花费高 生产出很多不能用的</p><p>F政府赞助了这个竞赛 为了找到更便宜的方法</p><p>之后 一个过程说明了一种混合方法 创造简单替代的方案</p><p>所以没有一问十九世纪艺术家 用更多人工版本 </p><p>印象主义者可以有更多的选择 至少是更不贵的选择</p>]]></content>
       
@@ -255,17 +255,6 @@
     
     <entry>
       <title></title>
-      <link href="/css/runtime.css"/>
-      <url>/css/runtime.css</url>
-      
-        <content type="html"><![CDATA[/*电子钟字体*/@font-face {  font-family: 'UnidreamLED';  src: url("https://cdn.jsdelivr.net/npm/akilar-candyassets/fonts/UnidreamLED.ttf");  font-display: swap;}div#runtime {  width: 180px;  margin: auto;  color: #fff;  padding-inline: 5px;  border-radius: 10px;  background-color: rgba(0,0,0,0.7);  font-family: 'UnidreamLED';}[data-theme="dark"] div#runtime {  color: #28b4c8;  box-shadow: 0 0 5px rgba(28,69,218,0.71);  animation: flashlight 1s linear infinite alternate;}/*悬停显示徽标提示语*/a.github-badge:hover:before {  position: fixed;  width: fit-content;  margin: auto;  left: 0;  right: 0;  top: 10%;  border-radius: 10px;  text-align: center;  z-index: 100;  content: attr(data-title);  font-size: 20px;  color: #fff;  padding: 10px;  background-color: var(--text-bg-hover);}[data-theme=dark] a.github-badge:hover:before {  background-color: rgba(18,18,18,0.8);}@-moz-keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}@-webkit-keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}@-o-keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}@keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
       
@@ -277,10 +266,21 @@
     
     <entry>
       <title></title>
-      <link href="/js/cursor.js"/>
-      <url>/js/cursor.js</url>
+      <link href="/css/runtime.css"/>
+      <url>/css/runtime.css</url>
       
-        <content type="html"><![CDATA[// 听话的鼠标魔改var CURSOR;Math.lerp = (a, b, n) => (1 - n) * a + n * b;const getStyle = (el, attr) => {    try {        return window.getComputedStyle            ? window.getComputedStyle(el)[attr]            : el.currentStyle[attr];    } catch (e) {}    return "";};class Cursor {    constructor() {        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    move(left, top) {        this.cursor.style["left"] = `${left}px`;        this.cursor.style["top"] = `${top}px`;    }    create() {        if (!this.cursor) {            this.cursor = document.createElement("div");            this.cursor.id = "cursor";            this.cursor.classList.add("hidden");            document.body.append(this.cursor);        }        var el = document.getElementsByTagName('*');        for (let i = 0; i < el.length; i++)            if (getStyle(el[i], "cursor") == "pointer")                this.pt.push(el[i].outerHTML);        document.body.appendChild((this.scr = document.createElement("style")));        // 这里改变鼠标指针的颜色 由svg生成        this.scr.innerHTML = `* {cursor: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' width='8px' height='8px'><circle cx='4' cy='4' r='4' opacity='1.0' fill='rgb(57, 197, 187)'/></svg>") 4 4, auto}`;    }    refresh() {        this.scr.remove();        this.cursor.classList.remove("hover");        this.cursor.classList.remove("active");        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    init() {        document.onmouseover  = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.add("hover");        document.onmouseout   = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.remove("hover");        document.onmousemove  = e => {(this.pos.curr == null) && this.move(e.clientX - 8, e.clientY - 8); this.pos.curr = {x: e.clientX - 8, y: e.clientY - 8}; this.cursor.classList.remove("hidden");};        document.onmouseenter = e => this.cursor.classList.remove("hidden");        document.onmouseleave = e => this.cursor.classList.add("hidden");        document.onmousedown  = e => this.cursor.classList.add("active");        document.onmouseup    = e => this.cursor.classList.remove("active");    }    render() {        if (this.pos.prev) {            this.pos.prev.x = Math.lerp(this.pos.prev.x, this.pos.curr.x, 0.15);            this.pos.prev.y = Math.lerp(this.pos.prev.y, this.pos.curr.y, 0.15);            this.move(this.pos.prev.x, this.pos.prev.y);        } else {            this.pos.prev = this.pos.curr;        }        requestAnimationFrame(() => this.render());    }}(() => {    CURSOR = new Cursor();    // 需要重新获取列表时，使用 CURSOR.refresh()})();]]></content>
+        <content type="html"><![CDATA[/*电子钟字体*/@font-face {  font-family: 'UnidreamLED';  src: url("https://cdn.jsdelivr.net/npm/akilar-candyassets/fonts/UnidreamLED.ttf");  font-display: swap;}div#runtime {  width: 180px;  margin: auto;  color: #fff;  padding-inline: 5px;  border-radius: 10px;  background-color: rgba(0,0,0,0.7);  font-family: 'UnidreamLED';}[data-theme="dark"] div#runtime {  color: #28b4c8;  box-shadow: 0 0 5px rgba(28,69,218,0.71);  animation: flashlight 1s linear infinite alternate;}/*悬停显示徽标提示语*/a.github-badge:hover:before {  position: fixed;  width: fit-content;  margin: auto;  left: 0;  right: 0;  top: 10%;  border-radius: 10px;  text-align: center;  z-index: 100;  content: attr(data-title);  font-size: 20px;  color: #fff;  padding: 10px;  background-color: var(--text-bg-hover);}[data-theme=dark] a.github-badge:hover:before {  background-color: rgba(18,18,18,0.8);}@-moz-keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}@-webkit-keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}@-o-keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}@keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -299,17 +299,6 @@
     
     <entry>
       <title></title>
-      <link href="/js/universe.js"/>
-      <url>/js/universe.js</url>
-      
-        <content type="html"><![CDATA[// 星空背景和流星特效function dark() {    window.requestAnimationFrame=window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||window.msRequestAnimationFrame;var n,e,i,h,t=.05,s=document.getElementById("universe"),o=!0,a="180,184,240",r="226,225,142",d="226,225,224",c=[];function f(){n=window.innerWidth,e=window.innerHeight,i=.216*n,s.setAttribute("width",n),s.setAttribute("height",e)}function u(){h.clearRect(0,0,n,e);for(var t=c.length,i=0;i<t;i++){var s=c[i];s.move(),s.fadeIn(),s.fadeOut(),s.draw()}}function y(){this.reset=function(){this.giant=m(3),this.comet=!this.giant&&!o&&m(10),this.x=l(0,n-10),this.y=l(0,e),this.r=l(1.1,2.6),this.dx=l(t,6*t)+(this.comet+1-1)*t*l(50,120)+2*t,this.dy=-l(t,6*t)-(this.comet+1-1)*t*l(50,120),this.fadingOut=null,this.fadingIn=!0,this.opacity=0,this.opacityTresh=l(.2,1-.4*(this.comet+1-1)),this.do=l(5e-4,.002)+.001*(this.comet+1-1)},this.fadeIn=function(){this.fadingIn&&(this.fadingIn=!(this.opacity>this.opacityTresh),this.opacity+=this.do)},this.fadeOut=function(){this.fadingOut&&(this.fadingOut=!(this.opacity<0),this.opacity-=this.do/2,(this.x>n||this.y<0)&&(this.fadingOut=!1,this.reset()))},this.draw=function(){if(h.beginPath(),this.giant)h.fillStyle="rgba("+a+","+this.opacity+")",h.arc(this.x,this.y,2,0,2*Math.PI,!1);else if(this.comet){h.fillStyle="rgba("+d+","+this.opacity+")",h.arc(this.x,this.y,1.5,0,2*Math.PI,!1);for(var t=0;t<30;t++)h.fillStyle="rgba("+d+","+(this.opacity-this.opacity/20*t)+")",h.rect(this.x-this.dx/4*t,this.y-this.dy/4*t-2,2,2),h.fill()}else h.fillStyle="rgba("+r+","+this.opacity+")",h.rect(this.x,this.y,this.r,this.r);h.closePath(),h.fill()},this.move=function(){this.x+=this.dx,this.y+=this.dy,!1===this.fadingOut&&this.reset(),(this.x>n-n/4||this.y<0)&&(this.fadingOut=!0)},setTimeout(function(){o=!1},50)}function m(t){return Math.floor(1e3*Math.random())+1<10*t}function l(t,i){return Math.random()*(i-t)+t}f(),window.addEventListener("resize",f,!1),function(){h=s.getContext("2d");for(var t=0;t<i;t++)c[t]=new y,c[t].reset();u()}(),function t(){document.getElementsByTagName('html')[0].getAttribute('data-theme')=='dark'&&u(),window.requestAnimationFrame(t)}()};dark()]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/js/runtime.js"/>
       <url>/js/runtime.js</url>
       
@@ -320,22 +309,22 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title></title>
+      <link href="/js/cursor.js"/>
+      <url>/js/cursor.js</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[// 听话的鼠标魔改var CURSOR;Math.lerp = (a, b, n) => (1 - n) * a + n * b;const getStyle = (el, attr) => {    try {        return window.getComputedStyle            ? window.getComputedStyle(el)[attr]            : el.currentStyle[attr];    } catch (e) {}    return "";};class Cursor {    constructor() {        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    move(left, top) {        this.cursor.style["left"] = `${left}px`;        this.cursor.style["top"] = `${top}px`;    }    create() {        if (!this.cursor) {            this.cursor = document.createElement("div");            this.cursor.id = "cursor";            this.cursor.classList.add("hidden");            document.body.append(this.cursor);        }        var el = document.getElementsByTagName('*');        for (let i = 0; i < el.length; i++)            if (getStyle(el[i], "cursor") == "pointer")                this.pt.push(el[i].outerHTML);        document.body.appendChild((this.scr = document.createElement("style")));        // 这里改变鼠标指针的颜色 由svg生成        this.scr.innerHTML = `* {cursor: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' width='8px' height='8px'><circle cx='4' cy='4' r='4' opacity='1.0' fill='rgb(57, 197, 187)'/></svg>") 4 4, auto}`;    }    refresh() {        this.scr.remove();        this.cursor.classList.remove("hover");        this.cursor.classList.remove("active");        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    init() {        document.onmouseover  = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.add("hover");        document.onmouseout   = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.remove("hover");        document.onmousemove  = e => {(this.pos.curr == null) && this.move(e.clientX - 8, e.clientY - 8); this.pos.curr = {x: e.clientX - 8, y: e.clientY - 8}; this.cursor.classList.remove("hidden");};        document.onmouseenter = e => this.cursor.classList.remove("hidden");        document.onmouseleave = e => this.cursor.classList.add("hidden");        document.onmousedown  = e => this.cursor.classList.add("active");        document.onmouseup    = e => this.cursor.classList.remove("active");    }    render() {        if (this.pos.prev) {            this.pos.prev.x = Math.lerp(this.pos.prev.x, this.pos.curr.x, 0.15);            this.pos.prev.y = Math.lerp(this.pos.prev.y, this.pos.curr.y, 0.15);            this.move(this.pos.prev.x, this.pos.prev.y);        } else {            this.pos.prev = this.pos.curr;        }        requestAnimationFrame(() => this.render());    }}(() => {    CURSOR = new Cursor();    // 需要重新获取列表时，使用 CURSOR.refresh()})();]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title></title>
+      <link href="/js/universe.js"/>
+      <url>/js/universe.js</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[// 星空背景和流星特效function dark() {    window.requestAnimationFrame=window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||window.msRequestAnimationFrame;var n,e,i,h,t=.05,s=document.getElementById("universe"),o=!0,a="180,184,240",r="226,225,142",d="226,225,224",c=[];function f(){n=window.innerWidth,e=window.innerHeight,i=.216*n,s.setAttribute("width",n),s.setAttribute("height",e)}function u(){h.clearRect(0,0,n,e);for(var t=c.length,i=0;i<t;i++){var s=c[i];s.move(),s.fadeIn(),s.fadeOut(),s.draw()}}function y(){this.reset=function(){this.giant=m(3),this.comet=!this.giant&&!o&&m(10),this.x=l(0,n-10),this.y=l(0,e),this.r=l(1.1,2.6),this.dx=l(t,6*t)+(this.comet+1-1)*t*l(50,120)+2*t,this.dy=-l(t,6*t)-(this.comet+1-1)*t*l(50,120),this.fadingOut=null,this.fadingIn=!0,this.opacity=0,this.opacityTresh=l(.2,1-.4*(this.comet+1-1)),this.do=l(5e-4,.002)+.001*(this.comet+1-1)},this.fadeIn=function(){this.fadingIn&&(this.fadingIn=!(this.opacity>this.opacityTresh),this.opacity+=this.do)},this.fadeOut=function(){this.fadingOut&&(this.fadingOut=!(this.opacity<0),this.opacity-=this.do/2,(this.x>n||this.y<0)&&(this.fadingOut=!1,this.reset()))},this.draw=function(){if(h.beginPath(),this.giant)h.fillStyle="rgba("+a+","+this.opacity+")",h.arc(this.x,this.y,2,0,2*Math.PI,!1);else if(this.comet){h.fillStyle="rgba("+d+","+this.opacity+")",h.arc(this.x,this.y,1.5,0,2*Math.PI,!1);for(var t=0;t<30;t++)h.fillStyle="rgba("+d+","+(this.opacity-this.opacity/20*t)+")",h.rect(this.x-this.dx/4*t,this.y-this.dy/4*t-2,2,2),h.fill()}else h.fillStyle="rgba("+r+","+this.opacity+")",h.rect(this.x,this.y,this.r,this.r);h.closePath(),h.fill()},this.move=function(){this.x+=this.dx,this.y+=this.dy,!1===this.fadingOut&&this.reset(),(this.x>n-n/4||this.y<0)&&(this.fadingOut=!0)},setTimeout(function(){o=!1},50)}function m(t){return Math.floor(1e3*Math.random())+1<10*t}function l(t,i){return Math.random()*(i-t)+t}f(),window.addEventListener("resize",f,!1),function(){h=s.getContext("2d");for(var t=0;t<i;t++)c[t]=new y,c[t].reset();u()}(),function t(){document.getElementsByTagName('html')[0].getAttribute('data-theme')=='dark'&&u(),window.requestAnimationFrame(t)}()};dark()]]></content>
       
     </entry>
     
@@ -353,9 +342,9 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -367,6 +356,17 @@
       <title>音乐</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
